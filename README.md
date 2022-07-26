@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @princika-rai
 - 🌱 I’m currently improving my skills
 - 📫 https://www.linkedin.com/in/princika-rai-b2aa68202
-- [Princika.pdf](https://github.com/princika-rai/princika-rai/files/9187933/Princika.pdf)
+- [ResumeOfPrincika.pdf](https://github.com/princika-rai/princika-rai/files/9187957/ResumeOfPrincika.pdf)
+
 
 
 <!---
