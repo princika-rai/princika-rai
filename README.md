@@ -48,46 +48,46 @@ View My Live Projects
 ---
 ## 🛂 Contribution
 <p align="center">
-	<img src = "https://metrics.lecoq.io/bharatsharma19">
+	<img src = "https://metrics.lecoq.io/princika-rai">
 </p>
 
 ## 📟 Github Stats
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=bharatsharma19&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFEB07" />
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=princika-rai&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFEB07" />
 </p>
 
 ## 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharatsharma19"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=princika-rai"/>
 </p>
 
 ## ⚛️ Summary Stats
 <p align="center">
-	<img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharatsharma19&theme=tokyonight" />
-	<img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharatsharma19&theme=tokyonight" />
+	<img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=princika-rai&theme=tokyonight" />
+	<img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=princika-rai&theme=tokyonight" />
 </p>
 
 ## 💳 Summary Graph
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharatsharma19&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princika-rai&theme=tokyonight"/>
   <br><br>
-  https://skyline.github.com/Bharatsharma19/2022
+  https://skyline.github.com/princika-rai/2022
 </p>
 
 
 ## 💹 Contribution Graph
 <p align="center">
-	<img src="https://github.com/Bharatsharma19/Bharatsharma19/blob/output/github-contribution-grid-snake.gif">
+	<img src="https://github.com/princika-rai/princika-rai/blob/output/github-contribution-grid-snake.gif">
 </p>	
 
 ## 📈 Activity Graph
 <p align="center">
-	<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bharatsharma19&bg_color=000000&color=fbff00&line=05e0f0&point=ffffff&area=true&hide_border=true"/>
+	<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=princika-rai&bg_color=000000&color=fbff00&line=05e0f0&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
 <p align=center>
-<img height="24" src="https://komarev.com/ghpvc/?username=Bharatsharma19&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Bharatsharma19"/>
-<a href="https://github.com/Bharatsharma19">
+<img height="24" src="https://komarev.com/ghpvc/?username=princika-rai&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="princika-rai"/>
+<a href="https://github.com/princika-rai">
 </a>
 </p>
