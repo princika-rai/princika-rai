@@ -1,7 +1,7 @@
 <h1  align="center" >Hey! I'm Princika Rai,<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/> Nice to see you.</h1>
 
 <p align="center">
-  <a href="https://princika-rai.github.io"><img src="https://readme-typing-svg.herokuapp.com?lines=Problem+Solver;Web+Developer;Programmer;Frontend+Developer;center="true " /></a>
+  <a href="https://princika-rai.github.io"><img src="https://readme-typing-svg.herokuapp.com?lines=Problem+Solver;Web+Developer;Programmer;Frontend+Developer;gf;center="true " /></a>
   </p>
 
 
